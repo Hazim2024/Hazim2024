@@ -1,7 +1,6 @@
 # Hi there 👋
 
-3rd year computer science student at LJMU. 
- 
+Computer Science graduate 
 <details>
 <summary>Languages</summary>
  
